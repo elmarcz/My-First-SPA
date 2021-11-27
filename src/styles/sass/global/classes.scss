@@ -1,0 +1,12 @@
+.main-title{
+    @include main-title();
+}
+
+.btn-blue{
+    @include btn-blue();
+    border: none;
+}
+
+.btn-blue:active{
+    border:        5px solid #2a88ff;
+}

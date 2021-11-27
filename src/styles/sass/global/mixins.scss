@@ -1,0 +1,19 @@
+@mixin main-title() {
+  font-size: 5vh;
+  margin: 5px;
+  color: #ffffff;
+  font-family: "Outfit", sans-serif;
+}
+
+@mixin btn-blue() {
+  position: relative;
+  margin: 5px;
+  background: #1158e6;
+  border-radius: 11px;
+  padding: 10px 20px;
+  font-size: 19px;
+  color: #ffffff;
+  display: inline-block;
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+}
