@@ -1,8 +1,7 @@
 <p align="center">
    <img src="assets/img/logo.png" height="250px"/>  
 </p>
-<h1 align="center">SPA</h1>
-<p align="center">SPA PAGE</p>
+<h1 align="center">My First SPA</h1>
 <h3 align="center">🔨 Built with ⚙️</h3>
 
 <p align="center">
